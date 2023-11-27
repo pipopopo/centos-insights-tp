@@ -1,0 +1,4 @@
+# vars.yml
+# Grab this from https://access.redhat.com/management/activation_keys
+activation_key: "your_activation_key"
+organization_id: "your_organization_id"
